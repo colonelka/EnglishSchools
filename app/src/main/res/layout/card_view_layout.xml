@@ -1,0 +1,58 @@
+<android.support.v7.widget.CardView
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/card_view"
+    android:layout_marginBottom="5dp"
+    card_view:cardUseCompatPadding="true"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    card_view:cardBackgroundColor="#FF6F5C"
+
+    >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+
+        <TextView
+            android:id="@+id/school_rate_text"
+            android:layout_width="match_parent"
+            android:layout_height="20dp"
+            android:background="#006699"
+            android:text="School Rate"
+
+            android:gravity="center_vertical"
+            android:textColor="@android:color/white"
+            android:textSize="14dp"/>
+
+        <TextView
+            android:id="@+id/school_name_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Name"
+            android:gravity="center_vertical"
+            android:textSize="15dp"
+            android:padding="3dp"
+            android:textColor="@android:color/white"
+            android:layout_below="@id/school_rate_text"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="5dp"/>
+
+        <TextView
+            android:id="@+id/school_city_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Surname"
+            android:padding="6dp"
+            android:textColor="@android:color/white"
+            android:gravity="center_vertical"
+            android:textSize="10dp"
+            android:layout_below="@id/school_name_text"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="5dp"/>
+
+
+
+    </RelativeLayout>
+    </android.support.v7.widget.CardView>

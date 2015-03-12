@@ -1,0 +1,1994 @@
+[
+   {
+      "Institution_ID":198321,
+      "Institution_Name":"Academia Language School, Inc.",
+      "Institution_Address":"1600 Kapiolani Blvd., Suite 1215",
+      "Institution_City":"Honolulu",
+      "Institution_State":"HI",
+      "Institution_Zip":"96814"
+   },
+   {
+      "Institution_ID":198385,
+      "Institution_Name":"AF International School of Languages, Inc",
+      "Institution_Address":"3625 Thousand Oaks Blvd.",
+      "Institution_City":"Westlake Village",
+      "Institution_State":"CA",
+      "Institution_Zip":""
+   },
+   {
+      "Institution_ID":198400,
+      "Institution_Name":"AF International School of Languages, Inc.",
+      "Institution_Address":"3807 Wilshire Blvd.",
+      "Institution_City":"Los Angeles",
+      "Institution_State":"CA",
+      "Institution_Zip":""
+   },
+   {
+      "Institution_ID":232566,
+      "Institution_Name":"American Advanced Institute of Technology",
+      "Institution_Address":"826 Bustleton Pike, Suite 101A",
+      "Institution_City":"Feasterville",
+      "Institution_State":"PA",
+      "Institution_Zip":"19053"
+   },
+   {
+      "Institution_ID":230667,
+      "Institution_Name":"American Language Academy",
+      "Institution_Address":"PO BOX 7241",
+      "Institution_City":"Greensboro",
+      "Institution_State":"NC",
+      "Institution_Zip":"27417-0241"
+   },
+   {
+      "Institution_ID":236018,
+      "Institution_Name":"American Language Academy Miami",
+      "Institution_Address":"130 South University Drive, Suite A",
+      "Institution_City":"Plantation",
+      "Institution_State":"FL",
+      "Institution_Zip":"33324"
+   },
+   {
+      "Institution_ID":235097,
+      "Institution_Name":"American Language Academy, California",
+      "Institution_Address":"12437 Lewis Street, Suite 205",
+      "Institution_City":"Garden Grove",
+      "Institution_State":"CA",
+      "Institution_Zip":"92840"
+   },
+   {
+      "Institution_ID":232575,
+      "Institution_Name":"American Language Communication Center - Elmhurst",
+      "Institution_Address":"75-01 Broadway",
+      "Institution_City":"Elmhurst",
+      "Institution_State":"NY",
+      "Institution_Zip":"11373"
+   },
+   {
+      "Institution_ID":232584,
+      "Institution_Name":"American Language Communication Center - Manhattan",
+      "Institution_Address":"229 West 36th Street, 3rd Floor",
+      "Institution_City":"New York",
+      "Institution_State":"NY",
+      "Institution_Zip":"10018"
+   },
+   {
+      "Institution_ID":147800,
+      "Institution_Name":"American National University - Salem",
+      "Institution_Address":"1813 E Main St",
+      "Institution_City":"Salem",
+      "Institution_State":"VA",
+      "Institution_Zip":"24153"
+   },
+   {
+      "Institution_ID":101745,
+      "Institution_Name":"Arkansas State University",
+      "Institution_Address":"P.O. Box 600",
+      "Institution_City":"State University",
+      "Institution_State":"AR",
+      "Institution_Zip":"72467"
+   },
+   {
+      "Institution_ID":232593,
+      "Institution_Name":"ASC English School",
+      "Institution_Address":"1106 Commonwealth Avenue",
+      "Institution_City":"Boston",
+      "Institution_State":"MA",
+      "Institution_Zip":"02215"
+   },
+   {
+      "Institution_ID":134884,
+      "Institution_Name":"Ashland University",
+      "Institution_Address":"401 College Ave",
+      "Institution_City":"Ashland",
+      "Institution_State":"OH",
+      "Institution_Zip":"44805"
+   },
+   {
+      "Institution_ID":233143,
+      "Institution_Name":"Atlanta English Institute",
+      "Institution_Address":"4000 DeKalb Technology Parkway, Building 500",
+      "Institution_City":"Atlanta",
+      "Institution_State":"GA",
+      "Institution_Zip":"30340"
+   },
+   {
+      "Institution_ID":235936,
+      "Institution_Name":"Austin Language Learning School",
+      "Institution_Address":"1111 W. 24th Street, Suite D",
+      "Institution_City":"Austin",
+      "Institution_State":"TX",
+      "Institution_Zip":"78705"
+   },
+   {
+      "Institution_ID":176974,
+      "Institution_Name":"Aviator College of Aeronautical Science & Technology",
+      "Institution_Address":"3800 St. Lucie Blvd.",
+      "Institution_City":"Ft. Pierce",
+      "Institution_State":"FL",
+      "Institution_Zip":"34946"
+   },
+   {
+      "Institution_ID":114558,
+      "Institution_Name":"Ball State University",
+      "Institution_Address":"2000 University Ave",
+      "Institution_City":"Muncie",
+      "Institution_State":"IN",
+      "Institution_Zip":"47306"
+   },
+   {
+      "Institution_ID":235024,
+      "Institution_Name":"Bell Language School",
+      "Institution_Address":"1535 McDonald Avenue",
+      "Institution_City":"Brooklyn",
+      "Institution_State":"NY",
+      "Institution_Zip":"11230"
+   },
+   {
+      "Institution_ID":234988,
+      "Institution_Name":"Bergen County Career Advancement Training",
+      "Institution_Address":"60 Saddle River Avenue",
+      "Institution_City":"South Hackensack",
+      "Institution_State":"NJ",
+      "Institution_Zip":"07606"
+   },
+   {
+      "Institution_ID":120801,
+      "Institution_Name":"Boston University",
+      "Institution_Address":"One Sherborn St.",
+      "Institution_City":"Boston",
+      "Institution_State":"MA",
+      "Institution_Zip":"02215"
+   },
+   {
+      "Institution_ID":234766,
+      "Institution_Name":"C.C.B. School of Atlanta",
+      "Institution_Address":"3545 Peachtree Industrial Blvd. Suite 4",
+      "Institution_City":"Duluth",
+      "Institution_State":"GA",
+      "Institution_Zip":"30096"
+   },
+   {
+      "Institution_ID":232618,
+      "Institution_Name":"California School of Languages",
+      "Institution_Address":"320 Wilshire Boulevard, 3rd Floor",
+      "Institution_City":"Santa Monica",
+      "Institution_State":"CA",
+      "Institution_Zip":"90401"
+   },
+   {
+      "Institution_ID":102915,
+      "Institution_Name":"California State Polytechnic University - Pomona",
+      "Institution_Address":"3801 W Temple Ave",
+      "Institution_City":"Pomona",
+      "Institution_State":"CA",
+      "Institution_Zip":"91768"
+   },
+   {
+      "Institution_ID":102979,
+      "Institution_Name":"California State University - Long Beach",
+      "Institution_Address":"1250 Bellflower Blvd",
+      "Institution_City":"Long Beach",
+      "Institution_State":"CA",
+      "Institution_Zip":"90840-0115"
+   },
+   {
+      "Institution_ID":235945,
+      "Institution_Name":"CAMPUS Education Flushing",
+      "Institution_Address":"136-56 39 Avenue",
+      "Institution_City":"Flushing",
+      "Institution_State":"NY",
+      "Institution_Zip":"11354"
+   },
+   {
+      "Institution_ID":235954,
+      "Institution_Name":"CAMPUS Education Jersey City",
+      "Institution_Address":"35 Journal Square, Suite 700",
+      "Institution_City":"Jersey City",
+      "Institution_State":"NJ",
+      "Institution_Zip":"07306"
+   },
+   {
+      "Institution_ID":235963,
+      "Institution_Name":"CAMPUS Education Manhattan",
+      "Institution_Address":"410 8th Avenue, 5th Floor",
+      "Institution_City":"New York",
+      "Institution_State":"NY",
+      "Institution_Zip":"10001"
+   },
+   {
+      "Institution_ID":235972,
+      "Institution_Name":"CAMPUS Education Palisades Park",
+      "Institution_Address":"410 Broad Avenue, #202",
+      "Institution_City":"Palisades Park",
+      "Institution_State":"NJ",
+      "Institution_Zip":"07650"
+   },
+   {
+      "Institution_ID":232609,
+      "Institution_Name":"Century School of Languages",
+      "Institution_Address":"1485 Saratoga Avenue, Suite 100",
+      "Institution_City":"San Jose",
+      "Institution_State":"CA",
+      "Institution_Zip":"95129"
+   },
+   {
+      "Institution_ID":135346,
+      "Institution_Name":"Cleveland State University",
+      "Institution_Address":"2121 Euclid Avenue",
+      "Institution_City":"Cleveland",
+      "Institution_State":"OH",
+      "Institution_Zip":"44115-2214"
+   },
+   {
+      "Institution_ID":230889,
+      "Institution_Name":"College of English Language (CEL)",
+      "Institution_Address":"104 Broadway",
+      "Institution_City":"San Diego",
+      "Institution_State":"CA",
+      "Institution_Zip":"92101"
+   },
+   {
+      "Institution_ID":127255,
+      "Institution_Name":"College of Southern Nevada",
+      "Institution_Address":"6375 West Charleston Boulevard",
+      "Institution_City":"Las Vegas",
+      "Institution_State":"NV",
+      "Institution_Zip":"89146-1164"
+   },
+   {
+      "Institution_ID":107451,
+      "Institution_Name":"Colorado State University",
+      "Institution_Address":"102 Administration Building",
+      "Institution_City":"Fort Collins",
+      "Institution_State":"CO",
+      "Institution_Zip":"80523-0100"
+   },
+   {
+      "Institution_ID":213613,
+      "Institution_Name":"Columbia School of English",
+      "Institution_Address":"9237 SE Powell Boulevard",
+      "Institution_City":"Portland",
+      "Institution_State":"OR",
+      "Institution_Zip":"97266"
+   },
+   {
+      "Institution_ID":129905,
+      "Institution_Name":"Columbia University in the City of New York",
+      "Institution_Address":"116th Street & Broadway",
+      "Institution_City":"New York",
+      "Institution_State":"NY",
+      "Institution_Zip":"10027"
+   },
+   {
+      "Institution_ID":213765,
+      "Institution_Name":"Converse International School of Languages - San Diego",
+      "Institution_Address":"636 Broadway Street, Suite 210",
+      "Institution_City":"San Diego",
+      "Institution_State":"CA",
+      "Institution_Zip":"92101"
+   },
+   {
+      "Institution_ID":183831,
+      "Institution_Name":"Converse International School of Languages - San Francisco",
+      "Institution_Address":"605 Market Street",
+      "Institution_City":"San Francisco",
+      "Institution_State":"CA",
+      "Institution_Zip":"94105"
+   },
+   {
+      "Institution_ID":177463,
+      "Institution_Name":"Defense Language Institute",
+      "Institution_Address":"2235 Andrews Ave,",
+      "Institution_City":"Lackland AFB",
+      "Institution_State":"TX",
+      "Institution_Zip":"78236-5514"
+   },
+   {
+      "Institution_ID":103811,
+      "Institution_Name":"Diablo Valley College",
+      "Institution_Address":"321 Golf Club Rd",
+      "Institution_City":"Pleasant Hill",
+      "Institution_State":"CA",
+      "Institution_Zip":"94523"
+   },
+   {
+      "Institution_ID":139311,
+      "Institution_Name":"Drexel University",
+      "Institution_Address":"3141 Chestnut St",
+      "Institution_City":"Philadelphia",
+      "Institution_State":"PA",
+      "Institution_Zip":"19104"
+   },
+   {
+      "Institution_ID":139348,
+      "Institution_Name":"Duquesne University",
+      "Institution_Address":"Administration Bldg 600 Forbes Ave",
+      "Institution_City":"Pittsburgh",
+      "Institution_State":"PA",
+      "Institution_Zip":"15282"
+   },
+   {
+      "Institution_ID":122445,
+      "Institution_Name":"Eastern Michigan University",
+      "Institution_Address":"202 Welch",
+      "Institution_City":"Ypsilanti",
+      "Institution_State":"MI",
+      "Institution_Zip":"48197"
+   },
+   {
+      "Institution_ID":148593,
+      "Institution_Name":"Eastern Washington University",
+      "Institution_Address":"526 5th Street",
+      "Institution_City":"Cheney",
+      "Institution_State":"WA",
+      "Institution_Zip":"99004-2496"
+   },
+   {
+      "Institution_ID":219718,
+      "Institution_Name":"Educational and Cultural Interactions",
+      "Institution_Address":"3000 United Founders Blvd, Suite 139",
+      "Institution_City":"Oklahoma City",
+      "Institution_State":"OK",
+      "Institution_Zip":"73112"
+   },
+   {
+      "Institution_ID":219718,
+      "Institution_Name":"Educational and Cultural Interactions",
+      "Institution_Address":"3000 United Founders Blvd, Suite 139",
+      "Institution_City":"Oklahoma City",
+      "Institution_State":"OK",
+      "Institution_Zip":"73112"
+   },
+   {
+      "Institution_ID":116800,
+      "Institution_Name":"Emporia State University",
+      "Institution_Address":"1200 Commercial Street",
+      "Institution_City":"Emporia",
+      "Institution_State":"KS",
+      "Institution_Zip":"66801"
+   },
+   {
+      "Institution_ID":229975,
+      "Institution_Name":"English Language and Culture Institute",
+      "Institution_Address":"300 North Stadium Drive",
+      "Institution_City":"Monmouth",
+      "Institution_State":"OR",
+      "Institution_Zip":"97361"
+   },
+   {
+      "Institution_ID":233152,
+      "Institution_Name":"English Language Study Center",
+      "Institution_Address":"3919 S. Madison Avenue, Suite 800",
+      "Institution_City":"Indianapolis",
+      "Institution_State":"IN",
+      "Institution_Zip":"46227"
+   },
+   {
+      "Institution_ID":233161,
+      "Institution_Name":"Evergreen Academy",
+      "Institution_Address":"7630 Little River Turnpike, #100",
+      "Institution_City":"Annandale",
+      "Institution_State":"VA",
+      "Institution_Zip":"22003"
+   },
+   {
+      "Institution_ID":230029,
+      "Institution_Name":"Florida English Language Institute",
+      "Institution_Address":"201 Douglas Avenue, Suite C",
+      "Institution_City":"Dunedin",
+      "Institution_State":"FL",
+      "Institution_Zip":"34698"
+   },
+   {
+      "Institution_ID":183840,
+      "Institution_Name":"Florida Language Center",
+      "Institution_Address":"5975 North Federal Highway Suite 243",
+      "Institution_City":"Fort Lauderdale",
+      "Institution_State":"FL",
+      "Institution_Zip":"33308"
+   },
+   {
+      "Institution_ID":200448,
+      "Institution_Name":"FLS International - Pasadena",
+      "Institution_Address":"301 North lake Avenue, Suite 310",
+      "Institution_City":"Pasadena",
+      "Institution_State":"CA",
+      "Institution_Zip":"91101"
+   },
+   {
+      "Institution_ID":200448,
+      "Institution_Name":"FLS International - Pasadena",
+      "Institution_Address":"301 North lake Avenue, Suite 310",
+      "Institution_City":"Pasadena",
+      "Institution_State":"CA",
+      "Institution_Zip":"91101"
+   },
+   {
+      "Institution_ID":200448,
+      "Institution_Name":"FLS International - Pasadena",
+      "Institution_Address":"301 North lake Avenue, Suite 310",
+      "Institution_City":"Pasadena",
+      "Institution_State":"CA",
+      "Institution_Zip":"91101"
+   },
+   {
+      "Institution_ID":200448,
+      "Institution_Name":"FLS International - Pasadena",
+      "Institution_Address":"301 North lake Avenue, Suite 310",
+      "Institution_City":"Pasadena",
+      "Institution_State":"CA",
+      "Institution_Zip":"91101"
+   },
+   {
+      "Institution_ID":200448,
+      "Institution_Name":"FLS International - Pasadena",
+      "Institution_Address":"301 North lake Avenue, Suite 310",
+      "Institution_City":"Pasadena",
+      "Institution_State":"CA",
+      "Institution_Zip":"91101"
+   },
+   {
+      "Institution_ID":200448,
+      "Institution_Name":"FLS International - Pasadena",
+      "Institution_Address":"301 North lake Avenue, Suite 310",
+      "Institution_City":"Pasadena",
+      "Institution_State":"CA",
+      "Institution_Zip":"91101"
+   },
+   {
+      "Institution_ID":236106,
+      "Institution_Name":"FLS International St. Peter's University",
+      "Institution_Address":"2641 John F. Kennedy Blvd. W",
+      "Institution_City":"Jersey City",
+      "Institution_State":"NJ",
+      "Institution_Zip":"07306"
+   },
+   {
+      "Institution_ID":108870,
+      "Institution_Name":"Gallaudet University",
+      "Institution_Address":"800 Florida Ave, NE",
+      "Institution_City":"Washington",
+      "Institution_State":"DC",
+      "Institution_Zip":"20002-3695"
+   },
+   {
+      "Institution_ID":147581,
+      "Institution_Name":"George Mason University",
+      "Institution_Address":"4400 University Dr",
+      "Institution_City":"Fairfax",
+      "Institution_State":"VA",
+      "Institution_Zip":"22030-4444"
+   },
+   {
+      "Institution_ID":108898,
+      "Institution_Name":"Georgetown University",
+      "Institution_Address":"37th and O St NW",
+      "Institution_City":"Washington",
+      "Institution_State":"DC",
+      "Institution_Zip":"20057"
+   },
+   {
+      "Institution_ID":111337,
+      "Institution_Name":"Georgia State University",
+      "Institution_Address":"33 Gilmer St SE",
+      "Institution_City":"Atlanta",
+      "Institution_State":"GA",
+      "Institution_Zip":"30302-3083"
+   },
+   {
+      "Institution_ID":231138,
+      "Institution_Name":"Global English Academy",
+      "Institution_Address":"143-36 37th Avenue",
+      "Institution_City":"Flushing",
+      "Institution_State":"NY",
+      "Institution_Zip":"11354"
+   },
+   {
+      "Institution_ID":231147,
+      "Institution_Name":"Goal Training Educational Center",
+      "Institution_Address":"4728 W. Oakton",
+      "Institution_City":"Skokie",
+      "Institution_State":"IL",
+      "Institution_Zip":"60076"
+   },
+   {
+      "Institution_ID":148672,
+      "Institution_Name":"Gonzaga University",
+      "Institution_Address":"E 502 Boone Ave",
+      "Institution_City":"Spokane",
+      "Institution_State":"WA",
+      "Institution_Zip":"99258-0001"
+   },
+   {
+      "Institution_ID":233198,
+      "Institution_Name":"Gulf Language School",
+      "Institution_Address":"3203 N. Sam Houston Parkway West",
+      "Institution_City":"Houston",
+      "Institution_State":"TX",
+      "Institution_Zip":"77038"
+   },
+   {
+      "Institution_ID":233204,
+      "Institution_Name":"Hancock International College at Irvine, CA",
+      "Institution_Address":"4199 Campus Drive, Suite 600",
+      "Institution_City":"Irvine",
+      "Institution_State":"CA",
+      "Institution_Zip":"92612"
+   },
+   {
+      "Institution_ID":231688,
+      "Institution_Name":"Harbor Career College",
+      "Institution_Address":"4201 Wilshire Blvd.",
+      "Institution_City":"Los Angeles",
+      "Institution_State":"CA",
+      "Institution_Zip":"90010"
+   },
+   {
+      "Institution_ID":231129,
+      "Institution_Name":"Harriet Fulbright College",
+      "Institution_Address":"200 14th Street N Suite 214",
+      "Institution_City":"Arlington",
+      "Institution_State":"VA",
+      "Institution_Zip":"22201"
+   },
+   {
+      "Institution_ID":234021,
+      "Institution_Name":"Harvest English Institute - Long Branch",
+      "Institution_Address":"339 Broadway",
+      "Institution_City":"Long Branch",
+      "Institution_State":"NJ",
+      "Institution_Zip":"07740"
+   },
+   {
+      "Institution_ID":234030,
+      "Institution_Name":"Harvest English Institute - Newark",
+      "Institution_Address":"128 Wilson Avenue",
+      "Institution_City":"Newark",
+      "Institution_State":"NJ",
+      "Institution_Zip":"07105"
+   },
+   {
+      "Institution_ID":157818,
+      "Institution_Name":"Hawaii Community College",
+      "Institution_Address":"200 W Kawili St",
+      "Institution_City":"Hilo",
+      "Institution_State":"HI",
+      "Institution_Zip":"96720-4091"
+   },
+   {
+      "Institution_ID":231110,
+      "Institution_Name":"ILSC New York",
+      "Institution_Address":"304 Park Avenue South Suite 214",
+      "Institution_City":"New York",
+      "Institution_State":"NY",
+      "Institution_Zip":"10010"
+   },
+   {
+      "Institution_ID":115092,
+      "Institution_Name":"Indiana State University",
+      "Institution_Address":"200 N 7th St",
+      "Institution_City":"Terre Haute",
+      "Institution_State":"IN",
+      "Institution_Zip":"47809"
+   },
+   {
+      "Institution_ID":115126,
+      "Institution_Name":"Indiana University Bloomington",
+      "Institution_Address":"107 S. Indiana Ave.",
+      "Institution_City":"Bloomington",
+      "Institution_State":"IN",
+      "Institution_Zip":"47405-7000"
+   },
+   {
+      "Institution_ID":163772,
+      "Institution_Name":"inlingua English Center",
+      "Institution_Address":"1901 N Moore St., Suite LL-01",
+      "Institution_City":"Arlington",
+      "Institution_State":"VA",
+      "Institution_Zip":"22209"
+   },
+   {
+      "Institution_ID":232557,
+      "Institution_Name":"inlingua Florida",
+      "Institution_Address":"19020 NE 29th Avenue Concorde Plaza",
+      "Institution_City":"Aventura",
+      "Institution_State":"FL",
+      "Institution_Zip":"33180"
+   },
+   {
+      "Institution_ID":232557,
+      "Institution_Name":"inlingua Florida",
+      "Institution_Address":"19020 NE 29th Avenue Concorde Plaza",
+      "Institution_City":"Aventura",
+      "Institution_State":"FL",
+      "Institution_Zip":"33180"
+   },
+   {
+      "Institution_ID":232557,
+      "Institution_Name":"inlingua Florida",
+      "Institution_Address":"19020 NE 29th Avenue Concorde Plaza",
+      "Institution_City":"Aventura",
+      "Institution_State":"FL",
+      "Institution_Zip":"33180"
+   },
+   {
+      "Institution_ID":232557,
+      "Institution_Name":"inlingua Florida",
+      "Institution_Address":"19020 NE 29th Avenue Concorde Plaza",
+      "Institution_City":"Aventura",
+      "Institution_State":"FL",
+      "Institution_Zip":"33180"
+   },
+   {
+      "Institution_ID":232557,
+      "Institution_Name":"inlingua Florida",
+      "Institution_Address":"19020 NE 29th Avenue Concorde Plaza",
+      "Institution_City":"Aventura",
+      "Institution_State":"FL",
+      "Institution_Zip":"33180"
+   },
+   {
+      "Institution_ID":232557,
+      "Institution_Name":"inlingua Florida",
+      "Institution_Address":"19020 NE 29th Avenue Concorde Plaza",
+      "Institution_City":"Aventura",
+      "Institution_State":"FL",
+      "Institution_Zip":"33180"
+   },
+   {
+      "Institution_ID":232557,
+      "Institution_Name":"inlingua Florida",
+      "Institution_Address":"19020 NE 29th Avenue Concorde Plaza",
+      "Institution_City":"Aventura",
+      "Institution_State":"FL",
+      "Institution_Zip":"33180"
+   },
+   {
+      "Institution_ID":232557,
+      "Institution_Name":"inlingua Florida",
+      "Institution_Address":"19020 NE 29th Avenue Concorde Plaza",
+      "Institution_City":"Aventura",
+      "Institution_State":"FL",
+      "Institution_Zip":"33180"
+   },
+   {
+      "Institution_ID":232627,
+      "Institution_Name":"inlingua Metro New York",
+      "Institution_Address":"551 Fifth Avenue, Suite 720",
+      "Institution_City":"New York",
+      "Institution_State":"NY",
+      "Institution_Zip":"10021"
+   },
+   {
+      "Institution_ID":232627,
+      "Institution_Name":"inlingua Metro New York",
+      "Institution_Address":"551 Fifth Avenue, Suite 720",
+      "Institution_City":"New York",
+      "Institution_State":"NY",
+      "Institution_Zip":"10021"
+   },
+   {
+      "Institution_ID":232627,
+      "Institution_Name":"inlingua Metro New York",
+      "Institution_Address":"551 Fifth Avenue, Suite 720",
+      "Institution_City":"New York",
+      "Institution_State":"NY",
+      "Institution_Zip":"10021"
+   },
+   {
+      "Institution_ID":232636,
+      "Institution_Name":"inlingua Princeton",
+      "Institution_Address":"20 Nassau Street",
+      "Institution_City":"Princeton",
+      "Institution_State":"NJ",
+      "Institution_Zip":"08542"
+   },
+   {
+      "Institution_ID":200907,
+      "Institution_Name":"Intercultural Communications College",
+      "Institution_Address":"1601 Kapiolani Boulevard, Suite 1000",
+      "Institution_City":"Honolulu",
+      "Institution_State":"HI",
+      "Institution_Zip":""
+   },
+   {
+      "Institution_ID":200907,
+      "Institution_Name":"Intercultural Communications College",
+      "Institution_Address":"1601 Kapiolani Boulevard, Suite 1000",
+      "Institution_City":"Honolulu",
+      "Institution_State":"HI",
+      "Institution_Zip":""
+   },
+   {
+      "Institution_ID":233091,
+      "Institution_Name":"Intercultural Institute of California",
+      "Institution_Address":"1610 Bush Street",
+      "Institution_City":"San Francisco",
+      "Institution_State":"CA",
+      "Institution_Zip":"94107"
+   },
+   {
+      "Institution_ID":213774,
+      "Institution_Name":"International Academy of English",
+      "Institution_Address":"1727 5th Avenue",
+      "Institution_City":"San Diego",
+      "Institution_State":"CA",
+      "Institution_Zip":"92101"
+   },
+   {
+      "Institution_ID":232645,
+      "Institution_Name":"International Academy of English",
+      "Institution_Address":"2490 East Sunset Road Suite 100/102",
+      "Institution_City":"Las Vegas",
+      "Institution_State":"NV",
+      "Institution_Zip":"89120"
+   },
+   {
+      "Institution_ID":235927,
+      "Institution_Name":"International Academy of English - Las Vegas West",
+      "Institution_Address":"3100 West Sahara Avenue, Suite 108",
+      "Institution_City":"Las Vegas",
+      "Institution_State":"NV",
+      "Institution_Zip":"89102"
+   },
+   {
+      "Institution_ID":216092,
+      "Institution_Name":"International Center for Language Studies",
+      "Institution_Address":"1133 15th Street NW, Suite 600",
+      "Institution_City":"Washington",
+      "Institution_State":"DC",
+      "Institution_Zip":"20005"
+   },
+   {
+      "Institution_ID":234049,
+      "Institution_Name":"International Christian Institute and Linguistics School",
+      "Institution_Address":"11931 Seventh Street",
+      "Institution_City":"Houston",
+      "Institution_State":"TX",
+      "Institution_Zip":"77072"
+   },
+   {
+      "Institution_ID":230658,
+      "Institution_Name":"International Education Services",
+      "Institution_Address":"121 Broadway, Suite #332",
+      "Institution_City":"San Diego",
+      "Institution_State":"CA",
+      "Institution_Zip":"92101"
+   },
+   {
+      "Institution_ID":235033,
+      "Institution_Name":"International Educational Center",
+      "Institution_Address":"615 N. Milwaukee Avenue",
+      "Institution_City":"Glenview",
+      "Institution_State":"IL",
+      "Institution_Zip":"60025"
+   },
+   {
+      "Institution_ID":187189,
+      "Institution_Name":"International English Institute",
+      "Institution_Address":"640 Spence Lane, Suite 121",
+      "Institution_City":"Nashville",
+      "Institution_State":"TN",
+      "Institution_Zip":"37217"
+   },
+   {
+      "Institution_ID":234058,
+      "Institution_Name":"International Language Academy of Washington, DC",
+      "Institution_Address":"8000 Westpark Drive, Suite 160",
+      "Institution_City":"McLean",
+      "Institution_State":"VA",
+      "Institution_Zip":"22102"
+   },
+   {
+      "Institution_ID":210988,
+      "Institution_Name":"International Mid Pac College",
+      "Institution_Address":"1311 Kapiolani Blvd., Suite 200-I",
+      "Institution_City":"Honolulu",
+      "Institution_State":"HI",
+      "Institution_Zip":"96814"
+   },
+   {
+      "Institution_ID":235644,
+      "Institution_Name":"Internexus Provo",
+      "Institution_Address":"2255 North University Parkway, Suite 29",
+      "Institution_City":"Provo",
+      "Institution_State":"UT",
+      "Institution_Zip":"84604"
+   },
+   {
+      "Institution_ID":216047,
+      "Institution_Name":"Internexus/Interglobal",
+      "Institution_Address":"220 S. 200 East, Suite 200",
+      "Institution_City":"Salt Lake City",
+      "Institution_State":"UT",
+      "Institution_Zip":"84111"
+   },
+   {
+      "Institution_ID":117016,
+      "Institution_Name":"Kansas State University",
+      "Institution_Address":"110 Anderson Hall",
+      "Institution_City":"Manhattan",
+      "Institution_State":"KS",
+      "Institution_Zip":"66506"
+   },
+   {
+      "Institution_ID":232654,
+      "Institution_Name":"LAL Boston",
+      "Institution_Address":"225 Friend Street",
+      "Institution_City":"Boston",
+      "Institution_State":"MA",
+      "Institution_Zip":"02114"
+   },
+   {
+      "Institution_ID":145309,
+      "Institution_Name":"Lamar University",
+      "Institution_Address":"4400 MLK",
+      "Institution_City":"Beaumont",
+      "Institution_State":"TX",
+      "Institution_Zip":"77705"
+   },
+   {
+      "Institution_ID":228459,
+      "Institution_Name":"Language Consultants International",
+      "Institution_Address":"2160 S. Clermont Street",
+      "Institution_City":"Denver",
+      "Institution_State":"CO",
+      "Institution_Zip":"80222"
+   },
+   {
+      "Institution_ID":229258,
+      "Institution_Name":"Language Consultants International Houston",
+      "Institution_Address":"3618 Mount Vernon Street",
+      "Institution_City":"Houston",
+      "Institution_State":"TX",
+      "Institution_Zip":"77006"
+   },
+   {
+      "Institution_ID":201113,
+      "Institution_Name":"Language Exchange International",
+      "Institution_Address":"500 N.E. Spanish River Blvd., Suite 19",
+      "Institution_City":"Boca Raton",
+      "Institution_State":"FL",
+      "Institution_Zip":""
+   },
+   {
+      "Institution_ID":235060,
+      "Institution_Name":"Language On",
+      "Institution_Address":"420 Lincoln Road, Suite 225",
+      "Institution_City":"Miami Beach",
+      "Institution_State":"FL",
+      "Institution_Zip":"33139"
+   },
+   {
+      "Institution_ID":234997,
+      "Institution_Name":"Language Pacifica",
+      "Institution_Address":"585 Glenwood Avenue",
+      "Institution_City":"Menlo Park",
+      "Institution_State":"CA",
+      "Institution_Zip":"94025"
+   },
+   {
+      "Institution_ID":230676,
+      "Institution_Name":"Learning Institute of Texas",
+      "Institution_Address":"6403 Addicks Clodine Rd",
+      "Institution_City":"Houston",
+      "Institution_State":"TX",
+      "Institution_Zip":"77083-1201"
+   },
+   {
+      "Institution_ID":233213,
+      "Institution_Name":"LIC/LISMA Language Center Long Island",
+      "Institution_Address":"1125 Willis Avenue",
+      "Institution_City":"Albertson",
+      "Institution_State":"NY",
+      "Institution_Zip":"11507"
+   },
+   {
+      "Institution_ID":233222,
+      "Institution_Name":"LIC/LISMA Language Center Manhattan",
+      "Institution_Address":"34 W. 32nd Street",
+      "Institution_City":"New York",
+      "Institution_State":"NY",
+      "Institution_Zip":"11354"
+   },
+   {
+      "Institution_ID":233268,
+      "Institution_Name":"LIC/LISMA Language Center Palisades Park",
+      "Institution_Address":"342A Commercial Avenue",
+      "Institution_City":"Palisades Park",
+      "Institution_State":"NJ",
+      "Institution_Zip":"07650"
+   },
+   {
+      "Institution_ID":233277,
+      "Institution_Name":"LIC/LISMA Language Center Queens",
+      "Institution_Address":"37-12 Prince Street, 2nd Floor",
+      "Institution_City":"Flushing",
+      "Institution_State":"NY",
+      "Institution_Zip":"11354"
+   },
+   {
+      "Institution_ID":143525,
+      "Institution_Name":"Lincoln Memorial University",
+      "Institution_Address":"6965 Cumberland Gap Pky",
+      "Institution_City":"Harrogate",
+      "Institution_State":"TN",
+      "Institution_Zip":"37752-9900"
+   },
+   {
+      "Institution_ID":235981,
+      "Institution_Name":"Links English Language Institute",
+      "Institution_Address":"43 Ferry Street",
+      "Institution_City":"Newark",
+      "Institution_State":"NJ",
+      "Institution_Zip":"07105"
+   },
+   {
+      "Institution_ID":145646,
+      "Institution_Name":"Lone Star College System",
+      "Institution_Address":"5000 Research Forest Drive",
+      "Institution_City":"The Woodlands",
+      "Institution_State":"TX",
+      "Institution_Zip":"77381-4399"
+   },
+   {
+      "Institution_ID":145646,
+      "Institution_Name":"Lone Star College System",
+      "Institution_Address":"5000 Research Forest Drive",
+      "Institution_City":"The Woodlands",
+      "Institution_State":"TX",
+      "Institution_Zip":"77381-4399"
+   },
+   {
+      "Institution_ID":219383,
+      "Institution_Name":"Los Angeles Pacific College",
+      "Institution_Address":"3350 Wilshire Boulevard, Suite 460",
+      "Institution_City":"Los Angeles",
+      "Institution_State":"CA",
+      "Institution_Zip":"90010"
+   },
+   {
+      "Institution_ID":218946,
+      "Institution_Name":"Madison English as a Second Language School",
+      "Institution_Address":"3009 University Avenue",
+      "Institution_City":"Madison",
+      "Institution_State":"WI",
+      "Institution_Zip":"53705"
+   },
+   {
+      "Institution_ID":235990,
+      "Institution_Name":"Massachusetts International Academy",
+      "Institution_Address":"280 Locke Drive",
+      "Institution_City":"Marlborough",
+      "Institution_State":"MA",
+      "Institution_Zip":"01752"
+   },
+   {
+      "Institution_ID":118824,
+      "Institution_Name":"McNeese State University",
+      "Institution_Address":"4205 Ryan Street",
+      "Institution_City":"Lake Charles",
+      "Institution_State":"LA",
+      "Institution_Zip":"70609"
+   },
+   {
+      "Institution_ID":235042,
+      "Institution_Name":"Mentora College",
+      "Institution_Address":"1510 H Street, NW, Suite 150",
+      "Institution_City":"Washington",
+      "Institution_State":"DC",
+      "Institution_Zip":"20005"
+   },
+   {
+      "Institution_ID":122843,
+      "Institution_Name":"Michigan State University",
+      "Institution_Address":"450 Administration Bldg.",
+      "Institution_City":"East Lansing",
+      "Institution_State":"MI",
+      "Institution_Zip":"48824-1046"
+   },
+   {
+      "Institution_ID":147165,
+      "Institution_Name":"Middlebury College",
+      "Institution_Address":"Old Chapel",
+      "Institution_City":"Middlebury",
+      "Institution_State":"VT",
+      "Institution_Zip":"05753"
+   },
+   {
+      "Institution_ID":126313,
+      "Institution_Name":"Missouri State University",
+      "Institution_Address":"901 S National",
+      "Institution_City":"Springfield",
+      "Institution_State":"MO",
+      "Institution_Zip":"65897"
+   },
+   {
+      "Institution_ID":126650,
+      "Institution_Name":"Montana State University - Bozeman",
+      "Institution_Address":"P.O. Box 172420",
+      "Institution_City":"Bozeman",
+      "Institution_State":"MT",
+      "Institution_Zip":"59717-2420"
+   },
+   {
+      "Institution_ID":231095,
+      "Institution_Name":"Mountain Language Institute",
+      "Institution_Address":"1212 Arapahoe Street",
+      "Institution_City":"Golden",
+      "Institution_State":"CO",
+      "Institution_Zip":"80401"
+   },
+   {
+      "Institution_ID":210739,
+      "Institution_Name":"Mukogawa Fort Wright Institute",
+      "Institution_Address":"4000 W. Randolph Road",
+      "Institution_City":"Spokane",
+      "Institution_State":"WA",
+      "Institution_Zip":"99224"
+   },
+   {
+      "Institution_ID":200624,
+      "Institution_Name":"New England School of English, The",
+      "Institution_Address":"36 John F. Kennedy Street",
+      "Institution_City":"Cambridge",
+      "Institution_State":"MA",
+      "Institution_Zip":"02138"
+   },
+   {
+      "Institution_ID":232663,
+      "Institution_Name":"New York Language Center",
+      "Institution_Address":"226 W. 37th Street, 11th Floor",
+      "Institution_City":"New York",
+      "Institution_State":"NY",
+      "Institution_Zip":"10018"
+   },
+   {
+      "Institution_ID":232663,
+      "Institution_Name":"New York Language Center",
+      "Institution_Address":"226 W. 37th Street, 11th Floor",
+      "Institution_City":"New York",
+      "Institution_State":"NY",
+      "Institution_Zip":"10018"
+   },
+   {
+      "Institution_ID":232663,
+      "Institution_Name":"New York Language Center",
+      "Institution_Address":"226 W. 37th Street, 11th Floor",
+      "Institution_City":"New York",
+      "Institution_State":"NY",
+      "Institution_Zip":"10018"
+   },
+   {
+      "Institution_ID":235079,
+      "Institution_Name":"Nile Language School",
+      "Institution_Address":"196 Paterson Avenue, 3rd Floor",
+      "Institution_City":"East Rutherford",
+      "Institution_State":"NJ",
+      "Institution_Zip":"07073"
+   },
+   {
+      "Institution_ID":232672,
+      "Institution_Name":"Nomen Global Language Center",
+      "Institution_Address":"384 West Center Street",
+      "Institution_City":"Provo",
+      "Institution_State":"UT",
+      "Institution_Zip":"84601"
+   },
+   {
+      "Institution_ID":136507,
+      "Institution_Name":"Ohio State University",
+      "Institution_Address":"190 N. Oval Mall",
+      "Institution_City":"Columbus",
+      "Institution_State":"OH",
+      "Institution_Zip":"43210"
+   },
+   {
+      "Institution_ID":183549,
+      "Institution_Name":"OISE Boston",
+      "Institution_Address":"31 St. James Avenue, Suite 940",
+      "Institution_City":"Boston",
+      "Institution_State":"MA",
+      "Institution_Zip":"02116"
+   },
+   {
+      "Institution_ID":213756,
+      "Institution_Name":"Open Hearts International College",
+      "Institution_Address":"825 Bricell Bay Drive, Suite 1841-1842",
+      "Institution_City":"Miami",
+      "Institution_State":"FL",
+      "Institution_Zip":"33131"
+   },
+   {
+      "Institution_ID":235006,
+      "Institution_Name":"Optimus Language School",
+      "Institution_Address":"451 W. Lambert Road, #210",
+      "Institution_City":"Brea",
+      "Institution_State":"CA",
+      "Institution_Zip":"92821"
+   },
+   {
+      "Institution_ID":138327,
+      "Institution_Name":"Oregon State University",
+      "Institution_Address":"",
+      "Institution_City":"Corvallis",
+      "Institution_State":"OR",
+      "Institution_Zip":"97331"
+   },
+   {
+      "Institution_ID":235015,
+      "Institution_Name":"Orlando Language School",
+      "Institution_Address":"7680 Universal Boulevard, Suite 410",
+      "Institution_City":"Orlando",
+      "Institution_State":"FL",
+      "Institution_Zip":"32819"
+   },
+   {
+      "Institution_ID":126003,
+      "Institution_Name":"Park University",
+      "Institution_Address":"8700 NW River Park Dr",
+      "Institution_City":"Parkville",
+      "Institution_State":"MO",
+      "Institution_Zip":"64152-3795"
+   },
+   {
+      "Institution_ID":140711,
+      "Institution_Name":"Pennsylvania State University",
+      "Institution_Address":"201 Old Main",
+      "Institution_City":"University Park",
+      "Institution_State":"PA",
+      "Institution_Zip":"16802-1589"
+   },
+   {
+      "Institution_ID":200545,
+      "Institution_Name":"POLY Languages Institute",
+      "Institution_Address":"5757 Wilshire Blvd., Suite 510",
+      "Institution_City":"Los Angeles",
+      "Institution_State":"CA",
+      "Institution_Zip":"90036"
+   },
+   {
+      "Institution_ID":200554,
+      "Institution_Name":"POLY Languages Institute",
+      "Institution_Address":"2900 E. Colorado Blvd.",
+      "Institution_City":"Pasadena",
+      "Institution_State":"CA",
+      "Institution_Zip":""
+   },
+   {
+      "Institution_ID":200563,
+      "Institution_Name":"POLY Languages Institute",
+      "Institution_Address":"18818 Teller Avenue, Suite 160 Irvine",
+      "Institution_City":"Irvine",
+      "Institution_State":"CA",
+      "Institution_Zip":"92612"
+   },
+   {
+      "Institution_ID":230685,
+      "Institution_Name":"Portland English Language Academy",
+      "Institution_Address":"425 SW Washington Street, Suite 2F",
+      "Institution_City":"Portland",
+      "Institution_State":"OR",
+      "Institution_Zip":"97204-2241"
+   },
+   {
+      "Institution_ID":232681,
+      "Institution_Name":"Professional and Collegiate English (PACE) International Academy",
+      "Institution_Address":"H-160 University Mall, 575 E University Parkway",
+      "Institution_City":"Orem",
+      "Institution_State":"UT",
+      "Institution_Zip":"84097"
+   },
+   {
+      "Institution_ID":128629,
+      "Institution_Name":"Rutgers, The State University of New Jersey",
+      "Institution_Address":"Old Queens Building",
+      "Institution_City":"New Brunswick",
+      "Institution_State":"NJ",
+      "Institution_Zip":"08901-1281"
+   },
+   {
+      "Institution_ID":108481,
+      "Institution_Name":"Sacred Heart University",
+      "Institution_Address":"5151 Park Ave",
+      "Institution_City":"Fairfield",
+      "Institution_State":"CT",
+      "Institution_Zip":"06825-1000"
+   },
+   {
+      "Institution_ID":147208,
+      "Institution_Name":"Saint Michaels College",
+      "Institution_Address":"One Winooski Park",
+      "Institution_City":"Colchester",
+      "Institution_State":"VT",
+      "Institution_Zip":"05439"
+   },
+   {
+      "Institution_ID":106397,
+      "Institution_Name":"San Jose State University",
+      "Institution_Address":"1 Washington Sq",
+      "Institution_City":"San Jose",
+      "Institution_State":"CA",
+      "Institution_Zip":"95192-0001"
+   },
+   {
+      "Institution_ID":235051,
+      "Institution_Name":"Selnate International School",
+      "Institution_Address":"1502 N. Freedom Boulevard, Suite B",
+      "Institution_City":"Provo",
+      "Institution_State":"UT",
+      "Institution_Zip":"84604"
+   },
+   {
+      "Institution_ID":187198,
+      "Institution_Name":"Showa Boston Institute for Language and Culture",
+      "Institution_Address":"420 Pond Street",
+      "Institution_City":"Boston",
+      "Institution_State":"MA",
+      "Institution_Zip":"02125"
+   },
+   {
+      "Institution_ID":230694,
+      "Institution_Name":"South Beach Languages",
+      "Institution_Address":"227 9th Street",
+      "Institution_City":"Miami Beach",
+      "Institution_State":"FL",
+      "Institution_Zip":"33139"
+   },
+   {
+      "Institution_ID":114318,
+      "Institution_Name":"Southern Illinois University Carbondale",
+      "Institution_Address":"Anthony Hall 116",
+      "Institution_City":"Carbondale",
+      "Institution_State":"IL",
+      "Institution_Zip":"62901"
+   },
+   {
+      "Institution_ID":114327,
+      "Institution_Name":"Southern Illinois University Edwardsville",
+      "Institution_Address":"Campus Box 1151",
+      "Institution_City":"Edwardsville",
+      "Institution_State":"IL",
+      "Institution_Zip":"62026-1151"
+   },
+   {
+      "Institution_ID":132116,
+      "Institution_Name":"Spanish-American Institute",
+      "Institution_Address":"Times Square, 215 West 43 Street, Second Floor",
+      "Institution_City":"Manhattan",
+      "Institution_State":"NY",
+      "Institution_Zip":"10036-3913"
+   },
+   {
+      "Institution_ID":200253,
+      "Institution_Name":"Spring International Language Center",
+      "Institution_Address":"2575 West Church Avenue",
+      "Institution_City":"Littleton",
+      "Institution_State":"CO",
+      "Institution_Zip":"80120"
+   },
+   {
+      "Institution_ID":200253,
+      "Institution_Name":"Spring International Language Center",
+      "Institution_Address":"2575 West Church Avenue",
+      "Institution_City":"Littleton",
+      "Institution_State":"CO",
+      "Institution_Zip":"80120"
+   },
+   {
+      "Institution_ID":200253,
+      "Institution_Name":"Spring International Language Center",
+      "Institution_Address":"2575 West Church Avenue",
+      "Institution_City":"Littleton",
+      "Institution_State":"CO",
+      "Institution_Zip":"80120"
+   },
+   {
+      "Institution_ID":106759,
+      "Institution_Name":"St. Giles College",
+      "Institution_Address":"785 Market Street, Suite 300",
+      "Institution_City":"San Francisco",
+      "Institution_State":"CA",
+      "Institution_Zip":"94103"
+   },
+   {
+      "Institution_ID":106759,
+      "Institution_Name":"St. Giles College",
+      "Institution_Address":"785 Market Street, Suite 300",
+      "Institution_City":"San Francisco",
+      "Institution_State":"CA",
+      "Institution_Zip":"94103"
+   },
+   {
+      "Institution_ID":227933,
+      "Institution_Name":"St. Giles New York City",
+      "Institution_Address":"330 Fifth Avenue, 7th Floor",
+      "Institution_City":"New York",
+      "Institution_State":"NY",
+      "Institution_Zip":"10001"
+   },
+   {
+      "Institution_ID":146108,
+      "Institution_Name":"Stephen F Austin State University",
+      "Institution_Address":"1936 North St",
+      "Institution_City":"Nacogdoches",
+      "Institution_State":"TX",
+      "Institution_Zip":"75962"
+   },
+   {
+      "Institution_ID":132356,
+      "Institution_Name":"SUNY Buffalo",
+      "Institution_Address":"501 Capen Hall",
+      "Institution_City":"Buffalo",
+      "Institution_State":"NY",
+      "Institution_Zip":"14260-1660"
+   },
+   {
+      "Institution_ID":141468,
+      "Institution_Name":"Susquehanna University",
+      "Institution_Address":"514 University Ave",
+      "Institution_City":"Selinsgrove",
+      "Institution_State":"PA",
+      "Institution_Zip":"17870-1025"
+   },
+   {
+      "Institution_ID":235088,
+      "Institution_Name":"Tampa Language Center",
+      "Institution_Address":"4815 E. Busch Boulevard, Suite 109-110",
+      "Institution_City":"Tampa",
+      "Institution_State":"FL",
+      "Institution_Zip":"33617"
+   },
+   {
+      "Institution_ID":115621,
+      "Institution_Name":"Taylor University",
+      "Institution_Address":"236 W Reade Ave",
+      "Institution_City":"Upland",
+      "Institution_State":"IN",
+      "Institution_Zip":"46989-1001"
+   },
+   {
+      "Institution_ID":146278,
+      "Institution_Name":"Texas A&M University",
+      "Institution_Address":"Texas A&M University",
+      "Institution_City":"College Station",
+      "Institution_State":"TX",
+      "Institution_Zip":"77843"
+   },
+   {
+      "Institution_ID":144704,
+      "Institution_Name":"Texas A&M University - Corpus Christi",
+      "Institution_Address":"6300 Ocean Dr.",
+      "Institution_City":"Corpus Christi",
+      "Institution_State":"TX",
+      "Institution_Zip":"78412-5503"
+   },
+   {
+      "Institution_ID":177481,
+      "Institution_Name":"Texas International Education Consortium",
+      "Institution_Address":"1103 West 24th St.",
+      "Institution_City":"Austin",
+      "Institution_State":"TX",
+      "Institution_Zip":"78705-4603"
+   },
+   {
+      "Institution_ID":164997,
+      "Institution_Name":"The Institute for Health Education",
+      "Institution_Address":"600 Pavonia Avenue, First Floor",
+      "Institution_City":"Jersey City",
+      "Institution_State":"NJ",
+      "Institution_Zip":"07306"
+   },
+   {
+      "Institution_ID":100089,
+      "Institution_Name":"The University of Alabama",
+      "Institution_Address":"739 University Boulevard",
+      "Institution_City":"Tuscaloosa",
+      "Institution_State":"AL",
+      "Institution_Zip":"35487-0100"
+   },
+   {
+      "Institution_ID":135568,
+      "Institution_Name":"The University of Findlay",
+      "Institution_Address":"1000 N Main St",
+      "Institution_City":"Findlay",
+      "Institution_State":"OH",
+      "Institution_Zip":"45840-3695"
+   },
+   {
+      "Institution_ID":146296,
+      "Institution_Name":"The University of Texas at Arlington",
+      "Institution_Address":"701 S. Nedderman Dr.",
+      "Institution_City":"Arlington",
+      "Institution_State":"TX",
+      "Institution_Zip":"76013"
+   },
+   {
+      "Institution_ID":232706,
+      "Institution_Name":"UCEDA International New Brunswick",
+      "Institution_Address":"338 George Street",
+      "Institution_City":"New Brunswick",
+      "Institution_State":"NJ",
+      "Institution_Zip":"08901"
+   },
+   {
+      "Institution_ID":232690,
+      "Institution_Name":"UCEDA International Paterson",
+      "Institution_Address":"111 Ellison Street",
+      "Institution_City":"Paterson",
+      "Institution_State":"NJ",
+      "Institution_Zip":"07505"
+   },
+   {
+      "Institution_ID":233365,
+      "Institution_Name":"Uceda School of Boca Raton",
+      "Institution_Address":"23066 Sandlefoot Plaza",
+      "Institution_City":"Boca Raton",
+      "Institution_State":"FL",
+      "Institution_Zip":"33428"
+   },
+   {
+      "Institution_ID":233310,
+      "Institution_Name":"Uceda School of Elizabeth, NJ",
+      "Institution_Address":"1180 Elizabeth Avenue",
+      "Institution_City":"Elizabeth",
+      "Institution_State":"NJ",
+      "Institution_Zip":"07202"
+   },
+   {
+      "Institution_ID":233329,
+      "Institution_Name":"Uceda School of Hackensack, NJ",
+      "Institution_Address":"294 Main Street",
+      "Institution_City":"Hackensack",
+      "Institution_State":"NJ",
+      "Institution_Zip":"07601"
+   },
+   {
+      "Institution_ID":233338,
+      "Institution_Name":"Uceda School of Orlando I",
+      "Institution_Address":"5425 South Semoran Boulevard, Suite 8",
+      "Institution_City":"Orlando",
+      "Institution_State":"FL",
+      "Institution_Zip":"32822"
+   },
+   {
+      "Institution_ID":233347,
+      "Institution_Name":"Uceda School of Orlando II",
+      "Institution_Address":"12934 Deertrace Avenue",
+      "Institution_City":"Orlando",
+      "Institution_State":"FL",
+      "Institution_Zip":"32837"
+   },
+   {
+      "Institution_ID":233301,
+      "Institution_Name":"Uceda School of West New York, NJ",
+      "Institution_Address":"6014 Bergenline Avenue",
+      "Institution_City":"West New York",
+      "Institution_State":"NJ",
+      "Institution_Zip":"07193"
+   },
+   {
+      "Institution_ID":233356,
+      "Institution_Name":"Uceda School of West Palm Beach",
+      "Institution_Address":"4720-A Forest Hills Boulevard",
+      "Institution_City":"West Palm Beach",
+      "Institution_State":"FL",
+      "Institution_Zip":"33415"
+   },
+   {
+      "Institution_ID":236009,
+      "Institution_Name":"Universidad Nacional Autonoma De Mexico UNAM- San Antonio",
+      "Institution_Address":"600 Hemisfair Park",
+      "Institution_City":"San Antonio",
+      "Institution_State":"TX",
+      "Institution_Zip":"78205"
+   },
+   {
+      "Institution_ID":177542,
+      "Institution_Name":"University Language Institute",
+      "Institution_Address":"2448  F. 81st St. Suite 1400",
+      "Institution_City":"Tulsa",
+      "Institution_State":"OK",
+      "Institution_Zip":"74137"
+   },
+   {
+      "Institution_ID":100034,
+      "Institution_Name":"University of Alabama at Birmingham",
+      "Institution_Address":"1720 2nd Avenue South",
+      "Institution_City":"Birmingham",
+      "Institution_State":"AL",
+      "Institution_Zip":"35233"
+   },
+   {
+      "Institution_ID":101037,
+      "Institution_Name":"University of Arizona",
+      "Institution_Address":"1401 E University",
+      "Institution_City":"Tucson",
+      "Institution_State":"AZ",
+      "Institution_Zip":"85721-0066"
+   },
+   {
+      "Institution_ID":103033,
+      "Institution_Name":"University of California - Irvine",
+      "Institution_Address":"510 Aldrich Hall",
+      "Institution_City":"Irvine",
+      "Institution_State":"CA",
+      "Institution_Zip":"92697"
+   },
+   {
+      "Institution_ID":103060,
+      "Institution_Name":"University of California - San Diego",
+      "Institution_Address":"9500 Gilman Dr",
+      "Institution_City":"La Jolla",
+      "Institution_State":"CA",
+      "Institution_Zip":"92093"
+   },
+   {
+      "Institution_ID":109174,
+      "Institution_Name":"University of Central Florida",
+      "Institution_Address":"4000 Central Florida Blvd",
+      "Institution_City":"Orlando",
+      "Institution_State":"FL",
+      "Institution_Zip":"32816"
+   },
+   {
+      "Institution_ID":125134,
+      "Institution_Name":"University of Central Missouri",
+      "Institution_Address":"116 W. South Street",
+      "Institution_City":"Warrensburg",
+      "Institution_State":"MO",
+      "Institution_Zip":"64093-5011"
+   },
+   {
+      "Institution_ID":107363,
+      "Institution_Name":"University of Colorado at Boulder",
+      "Institution_Address":"17 UCB",
+      "Institution_City":"Boulder",
+      "Institution_State":"CO",
+      "Institution_Zip":"80309-0017"
+   },
+   {
+      "Institution_ID":108108,
+      "Institution_Name":"University of Connecticut",
+      "Institution_Address":"352 Mansfield Rd.",
+      "Institution_City":"Storrs",
+      "Institution_State":"CT",
+      "Institution_Zip":"06269"
+   },
+   {
+      "Institution_ID":108755,
+      "Institution_Name":"University of Delaware",
+      "Institution_Address":"104 Hullihen Hall",
+      "Institution_City":"Newark",
+      "Institution_State":"DE",
+      "Institution_Zip":"19716"
+   },
+   {
+      "Institution_ID":107567,
+      "Institution_Name":"University of Denver",
+      "Institution_Address":"2199 S. University Blvd",
+      "Institution_City":"Denver",
+      "Institution_State":"CO",
+      "Institution_Zip":"80208"
+   },
+   {
+      "Institution_ID":109518,
+      "Institution_Name":"University of Florida",
+      "Institution_Address":"355 Tigert Hall",
+      "Institution_City":"Gainesville",
+      "Institution_State":"FL",
+      "Institution_Zip":"32611"
+   },
+   {
+      "Institution_ID":111920,
+      "Institution_Name":"University of Hawaii at Hilo",
+      "Institution_Address":"200 W Kawili St",
+      "Institution_City":"Hilo",
+      "Institution_State":"HI",
+      "Institution_Zip":"96720-4091"
+   },
+   {
+      "Institution_ID":111939,
+      "Institution_Name":"University of Hawaii at Manoa",
+      "Institution_Address":"2500 Campus Road, Hawaii Hall",
+      "Institution_City":"Honolulu",
+      "Institution_State":"HI",
+      "Institution_Zip":"96822-2301"
+   },
+   {
+      "Institution_ID":145123,
+      "Institution_Name":"University of Houston",
+      "Institution_Address":"4800 Calhoun Rd.",
+      "Institution_City":"Houston",
+      "Institution_State":"TX",
+      "Institution_Zip":"77204-2018"
+   },
+   {
+      "Institution_ID":112172,
+      "Institution_Name":"University of Idaho",
+      "Institution_Address":"875 Perimeter Drive",
+      "Institution_City":"Moscow",
+      "Institution_State":"ID",
+      "Institution_Zip":"83844-2282"
+   },
+   {
+      "Institution_ID":113139,
+      "Institution_Name":"University of Illinois at Chicago",
+      "Institution_Address":"601 S. Morgan St. ; M/C 102",
+      "Institution_City":"Chicago",
+      "Institution_State":"IL",
+      "Institution_Zip":"60607-7128"
+   },
+   {
+      "Institution_ID":116101,
+      "Institution_Name":"University of Iowa",
+      "Institution_Address":"101 Jessup Hall",
+      "Institution_City":"Iowa City",
+      "Institution_State":"IA",
+      "Institution_Zip":"52242-1316"
+   },
+   {
+      "Institution_ID":116970,
+      "Institution_Name":"University of Kansas",
+      "Institution_Address":"230 Strong Hall 1450 Jayhawk Blvd.",
+      "Institution_City":"Lawrence",
+      "Institution_State":"KS",
+      "Institution_Zip":"66045-7535"
+   },
+   {
+      "Institution_ID":119580,
+      "Institution_Name":"University of Maine",
+      "Institution_Address":"5703 Alumni Hall, Suite 200",
+      "Institution_City":"Orono",
+      "Institution_State":"ME",
+      "Institution_Zip":"04469-5703"
+   },
+   {
+      "Institution_ID":120218,
+      "Institution_Name":"University of Maryland - College Park",
+      "Institution_Address":"Main Administration Building",
+      "Institution_City":"College Park",
+      "Institution_State":"MD",
+      "Institution_Zip":"20742"
+   },
+   {
+      "Institution_ID":109925,
+      "Institution_Name":"University of Miami",
+      "Institution_Address":"University Station",
+      "Institution_City":"Coral Gables",
+      "Institution_State":"FL",
+      "Institution_Zip":"33124"
+   },
+   {
+      "Institution_ID":122861,
+      "Institution_Name":"University of Michigan - Dearborn",
+      "Institution_Address":"4901 Evergreen Rd",
+      "Institution_City":"Dearborn",
+      "Institution_State":"MI",
+      "Institution_Zip":"48128-1491"
+   },
+   {
+      "Institution_ID":122870,
+      "Institution_Name":"University of Michigan - Flint",
+      "Institution_Address":"303 E Kearsley",
+      "Institution_City":"Flint",
+      "Institution_State":"MI",
+      "Institution_Zip":"48502-1950"
+   },
+   {
+      "Institution_ID":218539,
+      "Institution_Name":"University of Minnesota - Duluth",
+      "Institution_Address":"515 Darland Administration Bldg.",
+      "Institution_City":"Duluth",
+      "Institution_State":"MN",
+      "Institution_Zip":"55812"
+   },
+   {
+      "Institution_ID":127307,
+      "Institution_Name":"University of Nevada - Reno",
+      "Institution_Address":"1664 North Virginia Street",
+      "Institution_City":"Reno",
+      "Institution_State":"NV",
+      "Institution_Zip":"89557"
+   },
+   {
+      "Institution_ID":100520,
+      "Institution_Name":"University of North Alabama",
+      "Institution_Address":"One Harrison Plaza",
+      "Institution_City":"Florence",
+      "Institution_State":"AL",
+      "Institution_Zip":"35632-0001"
+   },
+   {
+      "Institution_ID":133890,
+      "Institution_Name":"University of North Carolina at Greensboro",
+      "Institution_Address":"1000 Spring Garden St",
+      "Institution_City":"Greensboro",
+      "Institution_State":"NC",
+      "Institution_Zip":"27402-6170"
+   },
+   {
+      "Institution_ID":145664,
+      "Institution_Name":"University of North Texas",
+      "Institution_Address":"1155 Union Circle #311277",
+      "Institution_City":"Denton",
+      "Institution_State":"TX",
+      "Institution_Zip":"76203"
+   },
+   {
+      "Institution_ID":107734,
+      "Institution_Name":"University of Northern Colorado",
+      "Institution_Address":"501 20th St.",
+      "Institution_City":"Greeley",
+      "Institution_State":"CO",
+      "Institution_Zip":"80639"
+   },
+   {
+      "Institution_ID":233107,
+      "Institution_Name":"University of Northern New Jersey",
+      "Institution_Address":"20 Commerce Drive",
+      "Institution_City":"Cranford",
+      "Institution_State":"NJ",
+      "Institution_Zip":"07016"
+   },
+   {
+      "Institution_ID":138336,
+      "Institution_Name":"University of Oregon",
+      "Institution_Address":"110 Johnson Hall",
+      "Institution_City":"Eugene",
+      "Institution_State":"OR",
+      "Institution_Zip":"97403"
+   },
+   {
+      "Institution_ID":140890,
+      "Institution_Name":"University of Pennsylvania",
+      "Institution_Address":"3451 Walnut Street",
+      "Institution_City":"Philadelphia",
+      "Institution_State":"PA",
+      "Institution_Zip":"19104-6303"
+   },
+   {
+      "Institution_ID":140997,
+      "Institution_Name":"University of Pittsburgh - Main Campus",
+      "Institution_Address":"4200 Fifth Ave",
+      "Institution_City":"Pittsburgh",
+      "Institution_State":"PA",
+      "Institution_Zip":"15260"
+   },
+   {
+      "Institution_ID":141990,
+      "Institution_Name":"University of Rhode Island",
+      "Institution_Address":"Green Hall, 35 Campus Avenue",
+      "Institution_City":"Kingston",
+      "Institution_State":"RI",
+      "Institution_Zip":"02881"
+   },
+   {
+      "Institution_ID":142568,
+      "Institution_Name":"University of South Carolina - Columbia",
+      "Institution_Address":"Osborne Administration Building",
+      "Institution_City":"Columbia",
+      "Institution_State":"SC",
+      "Institution_Zip":"29208"
+   },
+   {
+      "Institution_ID":110422,
+      "Institution_Name":"University of South Florida",
+      "Institution_Address":"4202 East Fowler Ave",
+      "Institution_City":"Tampa",
+      "Institution_State":"FL",
+      "Institution_Zip":"33620-9951"
+   },
+   {
+      "Institution_ID":106801,
+      "Institution_Name":"University of Southern California",
+      "Institution_Address":"University Park",
+      "Institution_City":"Los Angeles",
+      "Institution_State":"CA",
+      "Institution_Zip":"90089"
+   },
+   {
+      "Institution_ID":147031,
+      "Institution_Name":"University of Utah",
+      "Institution_Address":"201 Presidents Circle",
+      "Institution_City":"Salt Lake City",
+      "Institution_State":"UT",
+      "Institution_Zip":"84112-9008"
+   },
+   {
+      "Institution_ID":149143,
+      "Institution_Name":"University of Washington",
+      "Institution_Address":"P.O. Box 351230",
+      "Institution_City":"Seattle",
+      "Institution_State":"WA",
+      "Institution_Zip":"98195-4550"
+   },
+   {
+      "Institution_ID":150598,
+      "Institution_Name":"University of Wisconsin - Milwaukee",
+      "Institution_Address":"PO Box 413",
+      "Institution_City":"Milwaukee",
+      "Institution_State":"WI",
+      "Institution_Zip":"53211"
+   },
+   {
+      "Institution_ID":150561,
+      "Institution_Name":"University of Wisconsin - Superior",
+      "Institution_Address":"Belknap & Catlin",
+      "Institution_City":"Superior",
+      "Institution_State":"WI",
+      "Institution_Zip":"54880-4500"
+   },
+   {
+      "Institution_ID":147004,
+      "Institution_Name":"Utah State University",
+      "Institution_Address":"Old Main Hill",
+      "Institution_City":"Logan",
+      "Institution_State":"UT",
+      "Institution_Zip":"84322-1400"
+   },
+   {
+      "Institution_ID":147013,
+      "Institution_Name":"Utah Valley University",
+      "Institution_Address":"800 W University Parkway",
+      "Institution_City":"Orem",
+      "Institution_State":"UT",
+      "Institution_Zip":"84058-5999"
+   },
+   {
+      "Institution_ID":110644,
+      "Institution_Name":"Valencia College",
+      "Institution_Address":"190 South Orange Avenue",
+      "Institution_City":"Orlando",
+      "Institution_State":"FL",
+      "Institution_Zip":"32801"
+   },
+   {
+      "Institution_ID":115649,
+      "Institution_Name":"Valparaiso University",
+      "Institution_Address":"1700 Chapel Drive OP Kretzmann Hall",
+      "Institution_City":"Valparaiso",
+      "Institution_State":"IN",
+      "Institution_Zip":"46383-6493"
+   },
+   {
+      "Institution_ID":148247,
+      "Institution_Name":"Virginia Commonwealth University",
+      "Institution_Address":"910 W Franklin St",
+      "Institution_City":"Richmond",
+      "Institution_State":"VA",
+      "Institution_Zip":"23284-2512"
+   },
+   {
+      "Institution_ID":148229,
+      "Institution_Name":"Virginia Polytechnic Institute and State University",
+      "Institution_Address":"Office of the President, 210 Burruss Hall",
+      "Institution_City":"Blacksburg",
+      "Institution_State":"VA",
+      "Institution_Zip":"24601"
+   },
+   {
+      "Institution_ID":148229,
+      "Institution_Name":"Virginia Polytechnic Institute and State University",
+      "Institution_Address":"Office of the President, 210 Burruss Hall",
+      "Institution_City":"Blacksburg",
+      "Institution_State":"VA",
+      "Institution_Zip":"24601"
+   },
+   {
+      "Institution_ID":148229,
+      "Institution_Name":"Virginia Polytechnic Institute and State University",
+      "Institution_Address":"Office of the President, 210 Burruss Hall",
+      "Institution_City":"Blacksburg",
+      "Institution_State":"VA",
+      "Institution_Zip":"24601"
+   },
+   {
+      "Institution_ID":149134,
+      "Institution_Name":"Washington State University",
+      "Institution_Address":"French Administration Building",
+      "Institution_City":"Pullman",
+      "Institution_State":"WA",
+      "Institution_Zip":"99164-1009"
+   },
+   {
+      "Institution_ID":147040,
+      "Institution_Name":"Weber State University",
+      "Institution_Address":"3750 Harrison Blvd",
+      "Institution_City":"Ogden",
+      "Institution_State":"UT",
+      "Institution_Zip":"84408-1137"
+   },
+   {
+      "Institution_ID":141705,
+      "Institution_Name":"West Chester University of Pennsylvania",
+      "Institution_Address":"University Avenue and  High Street",
+      "Institution_City":"West Chester",
+      "Institution_State":"PA",
+      "Institution_Zip":"19383"
+   },
+   {
+      "Institution_ID":146676,
+      "Institution_Name":"West Texas A&M University",
+      "Institution_Address":"2501 4th Ave",
+      "Institution_City":"Canyon",
+      "Institution_State":"TX",
+      "Institution_Zip":"79016-0001"
+   },
+   {
+      "Institution_ID":114479,
+      "Institution_Name":"Western Illinois University",
+      "Institution_Address":"1 University Circle",
+      "Institution_City":"Macomb",
+      "Institution_State":"IL",
+      "Institution_Zip":"61455"
+   },
+   {
+      "Institution_ID":118222,
+      "Institution_Name":"Western Kentucky University",
+      "Institution_Address":"1906 College Heights Blvd",
+      "Institution_City":"Bowling Green",
+      "Institution_State":"KY",
+      "Institution_Zip":"42101-1000"
+   },
+   {
+      "Institution_ID":123341,
+      "Institution_Name":"Western Michigan University",
+      "Institution_Address":"1903 West Michigan Avenue",
+      "Institution_City":"Kalamazoo",
+      "Institution_State":"MI",
+      "Institution_Zip":"49008-5167"
+   },
+   {
+      "Institution_ID":141787,
+      "Institution_Name":"Wilkes University",
+      "Institution_Address":"84 West South Street",
+      "Institution_City":"Wilkes-Barre",
+      "Institution_State":"PA",
+      "Institution_Zip":"18766"
+   },
+   {
+      "Institution_ID":114497,
+      "Institution_Name":"William Rainey Harper College",
+      "Institution_Address":"1200 W Algonquin Rd",
+      "Institution_City":"Palatine",
+      "Institution_State":"IL",
+      "Institution_Zip":"60067-7398"
+   },
+   {
+      "Institution_ID":177579,
+      "Institution_Name":"Wisconsin ESL Institute",
+      "Institution_Address":"19 N. Pinckney St.",
+      "Institution_City":"Madison",
+      "Institution_State":"WI",
+      "Institution_Zip":"53703"
+   },
+   {
+      "Institution_ID":137254,
+      "Institution_Name":"Xavier University",
+      "Institution_Address":"3800 Victory Parkway",
+      "Institution_City":"Cincinnati",
+      "Institution_State":"OH",
+      "Institution_Zip":"45207-1092"
+   }
+]
